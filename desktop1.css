@@ -12,18 +12,26 @@
   border-color: transparent;
   background-color: rgba(30, 30, 30, 1);
 }
-.desktop1-rectangle3 {
-  top: 0px;
-  left: 960px;
-  width: 960px;
-  height: 1080px;
+.desktop1-ellipse2 {
+  top: -3px;
+  right: -19px;
+  width: var(--dl-size-size-maxwidth);
+  height: var(--dl-size-size-maxwidth);
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-project-name201 {
+  top: 192px;
+  left: 305px;
+  width: 1311px;
+  height: 926px;
   position: absolute;
   border-color: transparent;
 }
 .desktop1-text {
-  top: 262px;
-  left: 1065px;
+  top: 295px;
   color: rgba(255, 255, 255, 1);
+  right: 87px;
   height: auto;
   position: absolute;
   font-size: 48px;
@@ -38,41 +46,33 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop1-ellipse2 {
-  top: -6px;
-  right: -2px;
-  width: var(--dl-size-size-maxwidth);
-  height: var(--dl-size-size-maxwidth);
-  position: absolute;
-  border-color: transparent;
-}
-.desktop1-project-name201 {
-  top: 176px;
-  left: 554px;
-  width: 1311px;
-  height: 926px;
-  position: absolute;
-  border-color: transparent;
-}
 .desktop1-rectangle1 {
   top: 0px;
   left: 0px;
-  width: 960px;
-  height: 1091px;
+  width: 750px;
+  height: 1080px;
   position: absolute;
   border-color: transparent;
 }
 .desktop1-ellipse1 {
-  left: -14px;
-  width: 1200px;
-  bottom: -16px;
-  height: 1200px;
+  left: -8px;
+  width: 780px;
+  bottom: -6px;
+  height: 780px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop1-project-name211 {
+  left: -381px;
+  width: 1299px;
+  bottom: -33px;
+  height: 727px;
   position: absolute;
   border-color: transparent;
 }
 .desktop1-text02 {
-  top: 273px;
-  left: 62px;
+  top: 289px;
+  left: 20px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -91,17 +91,9 @@
 .desktop1-text03 {
   color: rgba(255, 255, 255, 1);
 }
-.desktop1-project-name211 {
-  top: 403px;
-  left: -469px;
-  width: 1299px;
-  height: 727px;
-  position: absolute;
-  border-color: transparent;
-}
 .desktop1-text05 {
   top: 384px;
-  left: 62px;
+  left: 22px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -158,8 +150,8 @@
   border-color: transparent;
 }
 .desktop1-rectangle2 {
-  top: 701px;
-  left: 601px;
+  top: 700px;
+  left: 484px;
   width: 188px;
   height: 55px;
   position: absolute;
@@ -168,7 +160,7 @@
 }
 .desktop1-text32 {
   top: 716px;
-  left: 627px;
+  left: 503px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -185,16 +177,16 @@
   text-decoration: none;
 }
 .desktop1-c-s-i-r-indialogo2c-e4323d27seeklogo1 {
-  top: 944px;
-  left: 30px;
+  top: 945px;
+  left: 10px;
   width: 105px;
   height: 104px;
   position: absolute;
   border-color: transparent;
 }
 .desktop1-website-logo1 {
-  top: 937px;
-  left: 180px;
+  top: 939px;
+  left: 135px;
   width: 109px;
   height: 119px;
   position: absolute;
@@ -202,7 +194,7 @@
 }
 .desktop1-tedxlogo1 {
   top: 976px;
-  left: 327px;
+  left: 264px;
   width: 153px;
   height: 45px;
   position: absolute;
@@ -210,24 +202,24 @@
 }
 .desktop1-logo1 {
   top: 937px;
-  left: 549px;
+  left: 439px;
   width: 122px;
   height: 104px;
   position: absolute;
   border-color: transparent;
 }
 .desktop1-tgelf1 {
-  top: 914px;
-  left: 719px;
+  top: 911px;
+  left: 585px;
   width: 118px;
   height: 150px;
   position: absolute;
   border-color: transparent;
 }
 .desktop1-text34 {
-  top: 906px;
-  left: 1007px;
+  left: 776px;
   color: rgba(255, 255, 255, 1);
+  bottom: 89px;
   height: auto;
   position: absolute;
   font-size: 33px;
@@ -243,9 +235,9 @@
   text-decoration: none;
 }
 .desktop1-text39 {
-  top: 906px;
-  left: 1251px;
+  left: 967px;
   color: rgba(255, 255, 255, 1);
+  bottom: 30px;
   height: auto;
   position: absolute;
   font-size: 33px;
@@ -261,9 +253,9 @@
   text-decoration: none;
 }
 .desktop1-text44 {
-  top: 906px;
-  left: 1445px;
   color: rgba(255, 255, 255, 1);
+  right: 201px;
+  bottom: 89px;
   height: auto;
   position: absolute;
   font-size: 33px;
@@ -279,9 +271,9 @@
   text-decoration: none;
 }
 .desktop1-text49 {
-  top: 906px;
-  left: 1714px;
   color: rgba(255, 255, 255, 1);
+  right: 62px;
+  bottom: 34px;
   height: auto;
   position: absolute;
   font-size: 33px;
@@ -297,8 +289,8 @@
   text-decoration: none;
 }
 .desktop1-text54 {
-  top: 42px;
-  left: 1741px;
+  top: 32px;
+  left: 1355px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -315,8 +307,8 @@
   text-decoration: none;
 }
 .desktop1-text56 {
-  top: 42px;
-  left: 1489px;
+  top: 32px;
+  left: 1108px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -333,8 +325,8 @@
   text-decoration: none;
 }
 .desktop1-text58 {
-  top: 42px;
-  left: 1291px;
+  top: 32px;
+  left: 928px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
