@@ -83,11 +83,11 @@
   display: flex !important;
   transform: none !important;
 }
-.Display {
-  font-size: 48px;
+.Small {
+  font-size: 14px;
   font-style: normal;
   font-family: Inter;
-  font-weight: 900px;
+  font-weight: 400px;
   font-stretch: normal;
 }
 .Title {
@@ -97,11 +97,11 @@
   font-weight: 700px;
   font-stretch: normal;
 }
-.Small {
-  font-size: 14px;
+.Headline {
+  font-size: 32px;
   font-style: normal;
   font-family: Inter;
-  font-weight: 400px;
+  font-weight: 700px;
   font-stretch: normal;
 }
 .Heading {
@@ -112,13 +112,6 @@
   text-transform: none;
   text-decoration: none;
 }
-.Body {
-  font-size: 16px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 400px;
-  font-stretch: normal;
-}
 .Content {
   font-size: 16px;
   font-family: Inter;
@@ -127,10 +120,17 @@
   text-transform: none;
   text-decoration: none;
 }
-.Headline {
-  font-size: 32px;
+.Display {
+  font-size: 48px;
   font-style: normal;
   font-family: Inter;
-  font-weight: 700px;
+  font-weight: 900px;
+  font-stretch: normal;
+}
+.Body {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
   font-stretch: normal;
 }
